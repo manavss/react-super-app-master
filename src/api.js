@@ -1,0 +1,4 @@
+
+export const NEWS_API_KEY = "096f658d01784162b5bd1edf13edf93a";
+export const WEATHER_API_KEY =" 2ce0ad8701fd42faa05142921212112";
+export const MOVIES_API_KEY = "b70989a165e8b80bd98435f422056db4"
